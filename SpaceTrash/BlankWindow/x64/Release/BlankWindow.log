@@ -1,0 +1,6 @@
+﻿C:\Users\Wallu\Desktop\BlankWindow\BlankWindow\TextureMap.fx(63,29-47): warning X3206: implicit truncation of vector type
+C:\Users\Wallu\Desktop\BlankWindow\BlankWindow\TextureMap.fx(65,28-47): warning X3206: implicit truncation of vector type
+C:\Users\Wallu\Desktop\BlankWindow\BlankWindow\TextureMap.fx(92,16-68): warning X3206: implicit truncation of vector type
+FXC : error X3501: 'main': entrypoint not found
+  
+  compilation failed; no code produced
